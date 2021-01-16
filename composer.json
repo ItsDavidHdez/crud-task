@@ -1,0 +1,14 @@
+{
+    "name": "davidhdez8/crud_task",
+    "description": "App for i do my task",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Vargas Hernandez",
+            "email": "david-0610@live.com.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
